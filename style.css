@@ -1,0 +1,51 @@
+#container{
+    max-width: 1200px;
+    margin: auto;
+    height: 1000px;
+}
+#container0{
+    max-width: 600px;
+    margin: auto;
+    height: 700px;
+}
+
+
+
+.square{
+    display:inline-block;
+    margin-left: 10px;
+	width: 50px;
+	height: 50px;
+	background: green;
+    color: beige;
+    text-align: center;
+}
+
+    
+
+.circle{
+    display:inline-block;
+    width:50px ;
+    height: 50px;
+    background-color: red;
+    border-radius: 50px;
+    margin-left: 10px;
+    color: beige;
+    text-align: center;
+    
+}  
+.square{
+    display:inline-block;
+    margin-left: 10px;
+	width: 50px;
+	height: 50px;
+	background: green; 
+    color: beige;
+    text-align: center;
+    
+}
+#container1{
+    max-width:600px ;
+    height: 700px;
+    margin: auto;
+}
